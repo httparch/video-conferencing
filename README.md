@@ -13,4 +13,7 @@ npm i uuid
 
 npm i -g peer
 
-peerjs --port 3001
+# run server
+
+npm run devStart (node server)
+peerjs --port 3002 (peer server)
