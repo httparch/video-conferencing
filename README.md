@@ -1,14 +1,14 @@
 # video-conferencing
 
-#prereqs:
+# prereqs:
 node.js
 
-#install dependencies:
+# install dependencies:
 
 npm i express ejs socket.io
 npm i uuid
 
-#lib for connections:
+# lib for connections:
 
 npm i -g peer
 peerjs --port 3001
