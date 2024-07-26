@@ -15,5 +15,6 @@ npm i -g peer
 
 # run server
 
-npm run devStart (node server)
+npm run devStart (node server) 
+
 peerjs --port 3002 (peer server)
